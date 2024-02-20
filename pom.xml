@@ -100,13 +100,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>SK Technologies Releases Nexus Repository</name>
+	      <name>jenkins-release</name>
 	      <url>http://ec2-65-0-32-106.ap-south-1.compute.amazonaws.com:8081/repository/jenkins-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>SK Technologies Snapshot Nexus Repository </name>
+	      <name>jenkins-snapshot</name>
 	      <url>http://ec2-65-0-32-106.ap-south-1.compute.amazonaws.com:8081/repository/jenkins-snapshot/</url>
 	    </snapshotRepository>
 	    
