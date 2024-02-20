@@ -107,7 +107,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>SK Technologies Snapshot Nexus Repository </name>
-	      <url>http://43.204.98.48:8081/repository/kkumar-snapshot/</url>
+	      <url>http://ec2-65-0-32-106.ap-south-1.compute.amazonaws.com:8081/repository/jenkins-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
